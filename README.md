@@ -1,4 +1,4 @@
-# Text Flow | v0.2
+# Text Flow
 O **TextFlow** é uma ferramenta web de processamento de texto e padronização de "strings" através de conversões de caixa e remoção de acentos.
 
 ## Funcionalidades
